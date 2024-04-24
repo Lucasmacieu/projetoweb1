@@ -1,0 +1,11 @@
+@charset "utf-8";
+.caixaimagem{
+	width:250px;
+	margin:auto;
+}
+.imgcentro{
+	width:100%;
+}
+.botoes{
+	text-align:center;
+}
